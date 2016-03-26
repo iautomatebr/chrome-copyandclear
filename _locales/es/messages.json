@@ -1,0 +1,41 @@
+﻿{
+  "chrome_extension_name": {
+    "message": "Copy&Clear"
+  },
+  "chrome_extension_description": {
+    "message": "Simple extensión para copiar y pegar texto y llano."
+  },
+  "share_selection": {
+    "message": "Copy&&Clear"
+  },
+  "notification_title": {
+    "message": "Borrar Texto"
+  },
+  "notification_body": {
+    "message": "El texto estaba limpio y se guarda en el portapapeles!"
+  },
+  "options_title": {
+    "message": "Copy&Clear - Ajustes"
+  },
+  "options_header": {
+    "message": "Copy&Clear - Ajustes"
+  },
+  "options_button_new": {
+    "message": "Nueva Regla"
+  },
+  "options_button_save": {
+    "message": "Salvar"
+  },
+  "options_button_remove": {
+    "message": "Retirar"
+  },
+  "options_text_label": {
+    "message": "Título"
+  },
+  "options_text_value": {
+    "message": "Caracteres para eliminar"
+  },
+  "options_text_enabled": {
+    "message": "Habilitado"
+  }
+}

@@ -1,0 +1,41 @@
+﻿{
+  "chrome_extension_name": {
+    "message": "Copy&Clear"
+  },
+  "chrome_extension_description": {
+    "message": "Extensão simples para copiar e colar texto com e sem formatação."
+  },
+  "share_selection": {
+    "message": "Copy&&Clear"
+  },
+  "notification_title": {
+    "message": "Copy&&Clear"
+  },
+  "notification_body": {
+    "message": "O texto foi limpo e salvo na \u00E1rea de transfer\u00EAncia!"
+  },
+  "options_title": {
+    "message": "Copy&Clear - Configurações"
+  },
+  "options_header": {
+    "message": "Copy&Clear - Configuraç&otilde;es"
+  },
+  "options_button_new": {
+    "message": "Nova Regra"
+  },
+  "options_button_save": {
+    "message": "Salvar"
+  },
+  "options_button_remove": {
+    "message": "Remover"
+  },
+  "options_text_label": {
+    "message": "Título"
+  },
+  "options_text_value": {
+    "message": "Caracteres para remover"
+  },
+  "options_text_enabled": {
+    "message": "Habilitado"
+  }
+}

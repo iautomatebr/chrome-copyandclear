@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<title>Copy&Clear</title>
+<script src="options.js"></script>
+</head>
+<body>
+<h2 id="header">Copy&Clear</h2>
+<hr>
+<table id="rules"></table>
+<hr>
+<button id="new">New Rule</button>
+<button id="save">Save</button>
+<label id="message"></label>
+<table hidden>
+	<tr id="rule-template" hidden>
+		<td class="nowrap">
+			<button class="move-up">&uarr;</button>
+			<button class="move-down">&darr;</button>
+		</td>
+		<td>
+			<input id="text_label" type="text" class="match-label" placeholder="Label">
+			<input id="text_value" type="text" class="match-param" placeholder="Value">
+			<span class="nowrap">
+				<input type="checkbox" class="enabled" checked>
+				<label id="text_enabled" class="enabled-label">Enabled</label>
+			</span>
+			<button id="remove" class="remove">Remove</button>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

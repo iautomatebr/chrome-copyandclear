@@ -1,0 +1,41 @@
+﻿{
+  "chrome_extension_name": {
+    "message": "Copy&Clear"
+  },
+  "chrome_extension_description": {
+    "message": "Simple extension to copy and paste text and plain."
+  },
+  "share_selection": {
+    "message": "Copy&&Clear"
+  },
+  "notification_title": {
+    "message": "Clear Text"
+  },
+  "notification_body": {
+    "message": "The text was clean and saved to the clipboard!"
+  },
+  "options_title": {
+    "message": "Copy&Clear - Settings"
+  },
+  "options_header": {
+    "message": "Copy&Clear - Settings"
+  },
+  "options_button_new": {
+    "message": "New Rule"
+  },
+  "options_button_save": {
+    "message": "Save"
+  },
+  "options_button_remove": {
+    "message": "Remove"
+  },
+  "options_text_label": {
+    "message": "Title"
+  },
+  "options_text_value": {
+    "message": "Characters to remove"
+  },
+  "options_text_enabled": {
+    "message": "Enabled"
+  }
+}
